@@ -1,9 +1,9 @@
-<h3 align="center">
+<h2 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Catppuccin latte theme for iTop
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-</h3>
+</h2>
 
 
 <p align="center">
@@ -13,8 +13,13 @@
 </p>
 
 
+## Usage
 
-## Previews
+1. If using releases, extract `dist/*` into your extension folder, otherwise extract `steffunky-backoffice-celestial-latter-theme` and <a href="https://github.com/steffunky/itop-backoffice-light-theme-base">itop-backoffice-light-theme-base</a>
+2. Run a setup
+3. Select `Celestial Latte` in your preferences
+
+## Gallery
 
 <p align="center">
 	<img src=".doc/dashboard.png"/>
@@ -22,12 +27,6 @@
 <p align="center">
 	<img src=".doc/details.png"/>
 </p>
-
-## Usage
-
-1. If using releases, extract `dist/*` into your extension folder, otherwise extract `steffunky-backoffice-celestial-latter-theme` and <a href="https://github.com/steffunky/itop-backoffice-light-theme-base">itop-backoffice-light-theme-base</a>
-2. Run a setup
-3. Select `Celestial Latte` in your preferences
 
 ## Contributing
 
